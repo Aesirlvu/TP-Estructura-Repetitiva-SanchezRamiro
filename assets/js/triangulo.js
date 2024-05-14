@@ -1,6 +1,4 @@
-let linea = "";
-for (let i = 0; i <= 5; i++) {
-    linea += "";
-    console.log(linea += "#");
+for (let i ="#"; i.length <= 10 ; i+= "#") {
+    console.log(i);
     } 
     
